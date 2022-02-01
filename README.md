@@ -1,5 +1,5 @@
 # Welcome to my Github page!
-Hi, I'm Kevin, a digital forensics independent researcher trying to learn Python among so much more! My sppecialties lean towards Windows and mobile device parsers but open to collaborating on anything to push the forensics field further!
+Hi, I'm Kevin, a digital forensics independent researcher trying to learn Python among so much more! My specialties lean towards Windows and mobile device analysis but open to collaborating on anything to push the forensics field forward!
 
 # Contact
 ### Twitter: https://twitter.com/KevinPagano3
