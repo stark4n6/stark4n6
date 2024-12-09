@@ -2,7 +2,8 @@
 Hi, I'm Kevin, an independent researcher doing  digital forensics trying to learn Python among so much more! My focus as of late has been mobile device analysis but open to collaborating on anything to push the forensics field forward!
 
 # Contact
-### Twitter: https://twitter.com/KevinPagano3
+### X/Twitter: https://twitter.com/KevinPagano3
+### Bluesky: https://bsky.app/profile/stark4n6.bsky.social
 ### Mastodon: https://infosec.exchange/@stark4n6
 ### Blog: https://stark4n6.com
 ### StartMe Page: https://startme.stark4n6.com
